@@ -1,0 +1,56 @@
+c:\users\mauricio yepez\source\repos\guiProyectoTiendaDeRopa\guiProyectoTiendaDeRopa\bin\Debug\guiProyectoTiendaDeRopa.exe.config
+c:\users\mauricio yepez\source\repos\guiProyectoTiendaDeRopa\guiProyectoTiendaDeRopa\bin\Debug\guiProyectoTiendaDeRopa.exe
+c:\users\mauricio yepez\source\repos\guiProyectoTiendaDeRopa\guiProyectoTiendaDeRopa\bin\Debug\guiProyectoTiendaDeRopa.pdb
+c:\users\mauricio yepez\source\repos\guiProyectoTiendaDeRopa\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.csprojResolveAssemblyReference.cache
+c:\users\mauricio yepez\source\repos\guiProyectoTiendaDeRopa\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.Clientes.resources
+c:\users\mauricio yepez\source\repos\guiProyectoTiendaDeRopa\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.CrearProveedor.resources
+c:\users\mauricio yepez\source\repos\guiProyectoTiendaDeRopa\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.Properties.Resources.resources
+c:\users\mauricio yepez\source\repos\guiProyectoTiendaDeRopa\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.csproj.GenerateResource.cache
+c:\users\mauricio yepez\source\repos\guiProyectoTiendaDeRopa\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.csproj.CoreCompileInputs.cache
+c:\users\mauricio yepez\source\repos\guiProyectoTiendaDeRopa\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.exe
+c:\users\mauricio yepez\source\repos\guiProyectoTiendaDeRopa\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.pdb
+c:\users\mauricio yepez\source\repos\guiProyectoTiendaDeRopa\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.Compras.resources
+c:\users\mauricio yepez\source\repos\guiProyectoTiendaDeRopa\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.CrearProducto.resources
+c:\users\mauricio yepez\source\repos\guiProyectoTiendaDeRopa\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.Ventas.resources
+c:\users\mauricio yepez\source\repos\guiProyectoTiendaDeRopa\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.DevolucionesClientes.resources
+c:\users\mauricio yepez\source\repos\guiProyectoTiendaDeRopa\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.DevolucionesProveedores.resources
+C:\Users\Mauricio Yepez\source\repos\guiProyectoTiendaDeRopa\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.Form1.resources
+C:\Users\Mauricio Yepez\Documents\git\GUIDeProyecto\guiProyectoTiendaDeRopa\bin\Debug\guiProyectoTiendaDeRopa.exe.config
+C:\Users\Mauricio Yepez\Documents\git\GUIDeProyecto\guiProyectoTiendaDeRopa\bin\Debug\guiProyectoTiendaDeRopa.exe
+C:\Users\Mauricio Yepez\Documents\git\GUIDeProyecto\guiProyectoTiendaDeRopa\bin\Debug\guiProyectoTiendaDeRopa.pdb
+C:\Users\Mauricio Yepez\Documents\git\GUIDeProyecto\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.csprojResolveAssemblyReference.cache
+C:\Users\Mauricio Yepez\Documents\git\GUIDeProyecto\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.Clientes.resources
+C:\Users\Mauricio Yepez\Documents\git\GUIDeProyecto\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.Compras.resources
+C:\Users\Mauricio Yepez\Documents\git\GUIDeProyecto\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.CrearProducto.resources
+C:\Users\Mauricio Yepez\Documents\git\GUIDeProyecto\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.CrearProveedor.resources
+C:\Users\Mauricio Yepez\Documents\git\GUIDeProyecto\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.DevolucionesClientes.resources
+C:\Users\Mauricio Yepez\Documents\git\GUIDeProyecto\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.DevolucionesProveedores.resources
+C:\Users\Mauricio Yepez\Documents\git\GUIDeProyecto\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.Form1.resources
+C:\Users\Mauricio Yepez\Documents\git\GUIDeProyecto\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.Properties.Resources.resources
+C:\Users\Mauricio Yepez\Documents\git\GUIDeProyecto\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.Ventas.resources
+C:\Users\Mauricio Yepez\Documents\git\GUIDeProyecto\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.csproj.GenerateResource.cache
+C:\Users\Mauricio Yepez\Documents\git\GUIDeProyecto\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio Yepez\Documents\git\GUIDeProyecto\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.exe
+C:\Users\Mauricio Yepez\Documents\git\GUIDeProyecto\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.pdb
+C:\Users\Mauricio Yepez\Documents\git\GUIDeProyecto EL CHIDO\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.csprojResolveAssemblyReference.cache
+C:\Users\Mauricio Yepez\Documents\git\GUIDeProyecto EL CHIDO\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.Clientes.resources
+C:\Users\Mauricio Yepez\Documents\git\GUIDeProyecto EL CHIDO\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.Compras.resources
+C:\Users\Mauricio Yepez\Documents\git\GUIDeProyecto EL CHIDO\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.CrearProducto.resources
+C:\Users\Mauricio Yepez\Documents\git\GUIDeProyecto EL CHIDO\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.CrearProveedor.resources
+C:\Users\Mauricio Yepez\Documents\git\GUIDeProyecto EL CHIDO\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.DevolucionesClientes.resources
+C:\Users\Mauricio Yepez\Documents\git\GUIDeProyecto EL CHIDO\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.DevolucionesProveedores.resources
+C:\Users\Mauricio Yepez\Documents\git\GUIDeProyecto EL CHIDO\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.Form1.resources
+C:\Users\Mauricio Yepez\Documents\git\GUIDeProyecto EL CHIDO\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.Properties.Resources.resources
+C:\Users\Mauricio Yepez\Documents\git\GUIDeProyecto EL CHIDO\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.Ventas.resources
+C:\Users\Mauricio Yepez\Documents\git\GUIDeProyecto EL CHIDO\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.csproj.GenerateResource.cache
+C:\Users\Mauricio Yepez\Documents\git\GUIDeProyecto EL CHIDO\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio Yepez\Documents\git\GUIDeProyecto EL CHIDO\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.exe
+C:\Users\Mauricio Yepez\Documents\git\GUIDeProyecto EL CHIDO\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.pdb
+C:\Users\Mauricio Yepez\Documents\git\GUIDeProyecto EL CHIDO\guiProyectoTiendaDeRopa\bin\Debug\guiProyectoTiendaDeRopa.exe.config
+C:\Users\Mauricio Yepez\Documents\git\GUIDeProyecto EL CHIDO\guiProyectoTiendaDeRopa\bin\Debug\guiProyectoTiendaDeRopa.exe
+C:\Users\Mauricio Yepez\Documents\git\GUIDeProyecto EL CHIDO\guiProyectoTiendaDeRopa\bin\Debug\guiProyectoTiendaDeRopa.pdb
+C:\Users\Mauricio Yepez\Documents\git\GUIDeProyecto EL CHIDO\guiProyectoTiendaDeRopa\bin\Debug\MySql.Data.dll
+C:\Users\Mauricio Yepez\Documents\git\GUIDeProyecto EL CHIDO\guiProyectoTiendaDeRopa\bin\Debug\Google.Protobuf.dll
+C:\Users\Mauricio Yepez\Documents\git\GUIDeProyecto EL CHIDO\guiProyectoTiendaDeRopa\bin\Debug\MySql.Data.xml
+C:\Users\Mauricio Yepez\Documents\git\GUIDeProyecto EL CHIDO\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.csproj.CopyComplete
+C:\Users\Mauricio Yepez\Documents\git\GUIDeProyecto EL CHIDO\guiProyectoTiendaDeRopa\obj\Debug\guiProyectoTiendaDeRopa.MostrarClientes.resources
